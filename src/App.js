@@ -5,6 +5,7 @@ function App() {
     <div>
       <center>
         <h1>New React App</h1>
+        <h2>Lets start Building React App</h2>
       </center>
     </div>
   );
